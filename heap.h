@@ -1,6 +1,6 @@
 // heap.h
 // Binary heap tree header file for CS 24 lab
-// Diba Mirza
+// Jarek Pascua
 
 #ifndef HEAP_H
 #define HEAP_H
